@@ -1,6 +1,6 @@
 # AutoResumeWebpage
 
-### Instantly create (Github pages URL)[https://pages.github.com/] for your Resume.
+### Instantly create [Github pages URL](https://pages.github.com/) for your Resume.
 
 ### Usage:
 Just run the script, provide the path of your resume file and you are Done!
