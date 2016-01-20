@@ -2,7 +2,7 @@
 
 ### Instantly create [Github pages URL](https://pages.github.com/) for your Resume.
 
-*In less than 30 seconds*
+*In less than 30 seconds!*
 
 ### Usage:
 Just run the script, provide the path of your resume file and you are **DONE!**
