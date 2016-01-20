@@ -27,6 +27,9 @@ myresumeneew
 >>Finished, opening resume URL,
 ```
 
+<img src="https://media.giphy.com/media/R236hHDAevw7C/giphy.gif">
+
+
 ### Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8ruOikvR7e8
