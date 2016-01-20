@@ -4,6 +4,16 @@
 
 ### Usage:
 Just run the script, provide the path of your resume file and you are Done!
+```bash
+yasksrivastava at Yasks-MacBook-Pro in ~/Documents/AutoResumeWebpage
+$ ./uploadresume.sh
+Enter your Github email
+yask123@gmail.com
+Resume RepoName you wish to give? Your resume will be accessible from http://.github.io/RepoName
+myresumeneew
+Enter host password for user 'yask123@gmail.com':
+
+```
 
 ### Video
 
