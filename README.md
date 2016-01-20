@@ -53,7 +53,7 @@ Content of resume keeps changing and should change with time, but URL shouldn't 
 Using this script, your `Resume Link` will always point to the latest version of your resume.
 
 ## Updating resume
-*Note: Updating resume won't change the URL link of your existing resume*
+*Note: Updating resume **won't** change the URL link of your existing resum.e*
 
 Update your resume's content the typical way you update code.
 
