@@ -35,6 +35,6 @@ Optional
 ## Usage Screencast
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8ruOikvR7e8
-" target="_blank"><img src="http://img.youtube.com/vi/8ruOikvR7e8/1.jpg" 
-alt="Demo" width="340" height="380" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/8ruOikvR7e8/0.jpg" 
+alt="Demo" border="10" /></a>
 
