@@ -53,5 +53,11 @@ Content of resume keeps changing and should change with time, but URL shouldn't 
 Using this script, your `Resume Link` will always point to the latest version of your resume.
 
 ## Updating resume
-*Updating resume won't change the URL link of your existing resume*
+*Note: Updating resume won't change the URL link of your existing resume*
 
+Update your resume's content the typical way you update code.
+
+1. Fork the repo
+2. *Do your thing*
+3. Add and commit changes
+4. Push changes
