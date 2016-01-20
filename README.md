@@ -32,7 +32,8 @@ Optional
 <img src="https://media.giphy.com/media/R236hHDAevw7C/giphy.gif">
 
 
-## Usage Screencast
+
+## Usage Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8ruOikvR7e8
 " target="_blank"><img src="http://img.youtube.com/vi/8ruOikvR7e8/0.jpg" 
