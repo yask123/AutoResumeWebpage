@@ -58,7 +58,7 @@ Using this script, your `Resume Link` will always point to the latest version of
 
 Update your resume's content the typical way you update your code.
 
-1. Fork the repo
+1. Fork your resume repo
 2. *Do your thing*
 3. Add and commit changes
 4. Push changes
