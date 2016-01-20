@@ -31,7 +31,9 @@ Optional
 
 <img src="https://media.giphy.com/media/R236hHDAevw7C/giphy.gif">
 
-
+## Requirement
+* Registered Github Account
+* Unix O.S
 
 ## Usage Video
 
