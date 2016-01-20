@@ -15,3 +15,6 @@ git commit -m 'initial commit'
 remoteurl="https://github.com/"${githubid%@*}"/"$reponame
 git remote add origin $remoteurl
 git push origin gh-pages
+
+test=$(python -c "print '$resumepath'.split('/')[-1]")
+echo "http://"${githubid%@*}".github.io/"$reponame"/"$test
