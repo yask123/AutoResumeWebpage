@@ -39,6 +39,7 @@ Optional
 * Registered Github Account
 * Unix O.S
 * Python (For opening browser and Tweeting, *Optional*)
+* CURL (Pre-installed on most distributions)
 
 ## Usage Video
 
