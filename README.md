@@ -46,7 +46,8 @@ Optional
 " target="_blank"><img src="http://img.youtube.com/vi/8ruOikvR7e8/0.jpg" 
 alt="Demo" border="10" /></a>
 
-## Advantage
+## Why host resume this way?
+
 Content of resume keeps changing and should change with time, but URL shouldn't change. 
 
 Using this script, your `Resume Link` will always point to the latest version of your resume.
