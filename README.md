@@ -55,7 +55,7 @@ Using this script, your `Resume Link` will always point to the latest version of
 ## Updating resume
 *Note: Updating resume won't change the URL link of your existing resume.*
 
-Update your resume's content the typical way you update code.
+Update your resume's content the typical way you update your code.
 
 1. Fork the repo
 2. *Do your thing*
