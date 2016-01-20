@@ -3,7 +3,7 @@
 ### Instantly create [Github pages URL](https://pages.github.com/) for your Resume.
 
 ### Usage:
-Just run the script, provide the path of your resume file and you are DONE!
+Just run the script, provide the path of your resume file and you are **DONE!**
 ```bash
 yasksrivastava at Yasks-MacBook-Pro in ~/Documents/AutoResumeWebpage
 $ ./uploadresume.sh
@@ -34,7 +34,7 @@ Optional
 ## Requirements
 * Registered Github Account
 * Unix O.S
-* Python (For opening browser and Tweeting, Optional)
+* Python (For opening browser and Tweeting, *Optional*)
 
 ## Usage Video
 
