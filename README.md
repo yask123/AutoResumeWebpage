@@ -9,7 +9,6 @@ Just run the script, provide the path of your resume file and you are **DONE!**
 
 
 ```bash
-yasksrivastava at Yasks-MacBook-Pro in ~/Documents/AutoResumeWebpage
 $ chmod +x uploadresume.sh 
 $ ./uploadresume.sh
 
