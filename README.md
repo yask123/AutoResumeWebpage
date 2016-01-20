@@ -26,6 +26,7 @@ myresumeneew
 
 >>Finished, opening resume URL,
 ```
+## It Tweets your resume link too! 
 
 <img src="https://media.giphy.com/media/R236hHDAevw7C/giphy.gif">
 
