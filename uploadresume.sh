@@ -18,6 +18,6 @@ git push origin gh-pages
 
 test=$(python -c "print '$resumepath'.split('/')[-1]")
 url="http://"${githubid%@*}".github.io/"$reponame"/"$test
-echo "Finished, opening resume URl, refresh webpage if you get 404"
+echo "Finished, opening resume URL, refresh webpage if you get 404"
 python -m webbrowser $url
 python -m webbrowser "https://twitter.com/intent/tweet?text=Just%20updated%20my%20resume%20on%20Github,%20check%20it%20out%20"$url
