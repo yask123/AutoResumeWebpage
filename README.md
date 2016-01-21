@@ -13,15 +13,15 @@ $ chmod +x uploadresume.sh
 $ ./uploadresume.sh
 
 
->>Enter your Github email
-yask123@gmail.com
+>>Enter your GitHub username
+yask123
 
 
->>Resume RepoName you wish to give? Your resume will be accessible from http://.github.io/RepoName
+>>Resume RepoName you wish to give? Your resume will be accessible from http://yask123.github.io/RepoName
 myresume
 
 
->>Enter host password for user 'yask123@gmail.com':
+>>Enter host password for user 'yask123':
 *********
 
 >>Enter the complete path of your resume file
