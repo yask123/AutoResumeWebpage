@@ -7,7 +7,9 @@ echo "Enter the complete path of your resume file"
 read resumepath
 
 cp $resumepath .
-
+#Remove cloned git properties if it exists
+rm -rf .git
+#New git properties
 git init
 git checkout -b gh-pages
 git add .
